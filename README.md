@@ -15,9 +15,7 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
-python < scriptname.py >
-
-command to create environment from env.yml file is  """conda env create -f env.yml"""
-command to activate the mle-dev environment is  """conda activate mle-dev"""
-command to run python script is """python3 nonstandardcode.py"""
+ 1.Command to create environment from env.yml file is  """conda env create -f env.yml""".
+ 2.Command to activate the mle-dev environment is  """conda activate mle-dev""".
+ 3.Command to run python script is """python3 nonstandardcode.py""".
 
